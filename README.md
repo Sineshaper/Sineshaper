@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sineshaper
-- 👀 I’m interested in Coding, Blockchain Programming, IOT and Fullstack Webdevelopment
-- 🌱 I’m currently learning blockchain programming
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in iot and fullstack webdevelopment
+- 🌱 I’m currently do some stuff
 - 📫 How to reach me ...
 
 <!---
