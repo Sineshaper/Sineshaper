@@ -6,8 +6,6 @@
 
 - :seedling: I’m currently learning **.Net Maui, C++, Typescript and NextJS**
 
-- :computer: I wrote code for companies like vienna symphonic library, jaf frischeis, atos, coredat and interwetten
-
 - :sparkles: I'm into making music, 3d printing and 3d modelling
 
 <h3 align="left">Social</h3>
