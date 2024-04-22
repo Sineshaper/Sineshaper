@@ -8,7 +8,7 @@
 
 - ✨ Fullstack 💓
 
--🩹 Sorry my repos are private 
+- 🩹 Sorry my repos are private 
 
 <h3 align="left">Social</h3>
 <p align="left">
