@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">a passionate softwaredeveloper from Austria</h3>
-<h5 align="center">focused on web, iot and mobile</h5>
+<h5 align="center">with a lot of enthusiasm for web, iot and mobile apps</h5>
 
-- :grin: I’m currently working on **a lot of stuff**
+- 😁 I’m currently working on **a lot of stuff**
 
-- :seedling: I’m currently learning **.Net Maui, C++**
+- 🌱 I’m currently learning **.Net Maui, C++**
 
-- :sparkles: Fullstack 💓
+- ✨ Fullstack 💓
+
+-🩹 Sorry my repos are private 
 
 <h3 align="left">Social</h3>
 <p align="left">
