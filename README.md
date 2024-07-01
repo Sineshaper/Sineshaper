@@ -13,7 +13,6 @@
 <h3 align="left">Social</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/8255653/sineshaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8255653/sineshaper" height="30" width="40" /></a>
-<a href="https://instagram.com/@_pluvio.phil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_pluvio.phil" height="30" width="40" /></a>
 <a href="https://medium.com/@sineshaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sineshaper" height="30" width="40" /></a>
 <a href="https://mastodon.social/deck/@mutualreaction_official" target="blank"><img align="center" src="https://docs.joinmastodon.org/brand.svg" alt="@mutualreaction_official" height="40" width="140" /></a>
 </p>
