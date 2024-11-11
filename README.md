@@ -1,21 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phil</h1>
-<h3 align="center">a passionate softwaredeveloper from Austria</h3>
-<h5 align="center">with a lot of enthusiasm for web, iot and mobile apps</h5>
-
-- 😁 I’m currently working on **a lot of stuff**
-
-- 🌱 I’m currently learning **.Net Maui, C++**
-
-- ✨ Fullstack 💓
-
-- 🩹 Sorry my repos are private 
-
-<h3 align="left">Social</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/8255653/sineshaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8255653/sineshaper" height="30" width="40" /></a>
-<a href="https://medium.com/@sineshaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sineshaper" height="30" width="40" /></a>
-<a href="https://mastodon.social/deck/@mutualreaction_official" target="blank"><img align="center" src="https://docs.joinmastodon.org/brand.svg" alt="@mutualreaction_official" height="40" width="140" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Phil </h1>
+<h3 align="center">a passionate Softwaredeveloper from Austria</h3>
+<h5 align="center">with a lot of 💓 for Fullstack Development, IoT and Embedded Systems</h5>
 
 <h3 align="left">Favorite Tools:</h3>
 <p align="center"> 
