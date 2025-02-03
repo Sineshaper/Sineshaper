@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phil </h1>
-<h3 align="center">a passionate Softwaredeveloper from Austria</h3>
+<h3 align="center">a  Softwaredeveloper from Austria</h3>
 <h5 align="center">with a passion for Fullstack Development, IoT and Embedded Systems</h5>
 
 <h3 align="left">Favorite Tools:</h3>
